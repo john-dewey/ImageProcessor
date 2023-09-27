@@ -1,0 +1,119 @@
+.app{
+	-fx-background-color: #CEEEDD;
+}
+
+.output{
+	
+}
+
+.outputButton{
+	-fx-font-family: "Verdana";
+  
+	-fx-color: #20bf6b;
+  
+  	-fx-border-color: #20bf6b;
+  	-fx-border-radius: 6px;
+}
+.outputButton:hover {
+  	-fx-color: #494949 !important;
+  	-fx-border-radius: 50px;
+  	-fx-border-color: #494949 !important;
+}
+
+
+.outputHbox{
+	
+}
+.outputLabel{
+	-fx-font-weight: 900;
+	-fx-font-family: "Courier New";
+	-fx-text-fill: red;
+  
+  	-fx-background-color: #a3efc7;
+  	
+  	-fx-border-color: #20bf6b;
+}
+
+.menu{
+}
+.menuButton{
+	-fx-font-family: "Verdana";
+	
+	-fx-color: #20bf6b;
+  
+  	-fx-border-color: #20bf6b;
+  	-fx-border-radius: 6px;
+}
+.menuButton:hover {
+  	-fx-color: #494949 !important;
+  	-fx-border-radius: 50px;
+  	-fx-border-color: #494949 !important;
+}
+
+.menuLabel{
+	-fx-font-weight: 900;
+	-fx-font-family: "Verdana";
+	-fx-font-size: 14px;
+	
+	-fx-padding: 3px;
+	
+  	-fx-background-color: #a3efc7;
+  	-fx-border-color: #20bf6b;
+  	-fx-border-radius: 6px;
+}
+.menuVbox{
+	-fx-padding: 10;
+}
+
+
+
+
+
+
+
+.popup{
+	-fx-background-color: #CEEEDD;
+	-fx-padding: 10;
+}
+
+.popupButton{
+	-fx-font-family: "Verdana";
+  
+	-fx-color: #20bf6b;
+  
+  	-fx-border-color: #20bf6b;
+  	-fx-border-radius: 6px;
+}
+
+.popupVbox{
+}
+
+.popupLabel{
+	-fx-wrap-text: true;
+	
+	-fx-font-weight: 900;
+	-fx-font-family: "Verdana";
+	
+	-fx-padding: 3;
+  	-fx-background-color: #a3efc7;
+  	-fx-border-color: #20bf6b;
+}
+
+.popupTextbox{
+	-fx-font-family: "Verdana";
+}
+
+.popupButtonRow{
+
+}
+
+.popupVbox{
+
+}
+
+
+.image{
+	-fx-border-color: #20bf6b;
+	-fx-border-width: 4px;
+}
+
